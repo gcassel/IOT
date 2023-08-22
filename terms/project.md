@@ -4,4 +4,4 @@
 
 #### Notes
 
-This intentionally expansive definition includes all organizations, companies and corporations.
+This intentionally expansive definition includes all organizations, companies and corporations.  It includes solitary as well as collaborative projects.
