@@ -5,3 +5,5 @@
 #### Notes
 
 Projects (and media items) *may* have [Bases](https://github.com/gcassel/IO/blob/main/terms/base.md); however, Stewardship *may or may not* be intentionally inherited from Bases.  Stewardship may be delegated in many contexts, including relationships between Bases and [Extensions](https://github.com/gcassel/IO/blob/main/terms/extension.md).
+
+See also **[About Stewardship](https://docs.google.com/document/d/18ynvj5E2D3ic1717oWMAUMd6TmhJxAzKtZ-A0BSaXBM/edit?usp=sharing)** for additional information.
