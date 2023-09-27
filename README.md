@@ -1,6 +1,6 @@
-# IOD / Inclusive Organizing Definitions
+# IO / Inclusive Organizing Definitions
 This repository is for developing the practical technical definitions used in [Inclusive Organizing](https://docs.google.com/document/d/1_KwMbdghVVv1FODuy21QsXXXHsAKTLGc0YGT64oh0mg/edit?usp=sharing) (IO) and compatible systems.  
 
-Most of these IOD entries will be based on [MOT](https://github.com/gcassel/Modular-Organizing-Terminology) definitions, but precisely tailored to support the principles and practices of IO-based systems.  
+Most of these IO entries will be based on [MOT](https://github.com/gcassel/Modular-Organizing-Terminology) definitions, but precisely tailored to support the principles and practices of IO-based systems.  
 
-This IOD repository is unlikely to get nearly as extensive or self-referential as MOT, because IO definitions need to be practically strict, lean and stable.
+This IO repository is unlikely to get nearly as extensive or self-referential as MOT, because IO definitions need to be practically strict, lean and stable.
