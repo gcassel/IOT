@@ -1,6 +1,6 @@
 #### Definition
 
-*A Project* is *any system with a specific mission*.  
+*A Project* is *any [system](https://github.com/gcassel/IO/blob/main/terms/system.md) with a specific mission*.  
 
 #### Notes
 
