@@ -1,5 +1,5 @@
 # IOT / Inclusive Organizing Terminology
-This repository is for developing practical technical definitions used in [Inclusive Organizing](https://docs.google.com/document/d/1_KwMbdghVVv1FODuy21QsXXXHsAKTLGc0YGT64oh0mg/edit?usp=sharing) (IO) and compatible systems.  
+This repository is for developing practical technical definitions which are used in [Inclusive Organizing](https://docs.google.com/document/d/1_KwMbdghVVv1FODuy21QsXXXHsAKTLGc0YGT64oh0mg/edit?usp=sharing) (IO) and compatible systems.  
 
 Most of these IOT entries will be based on [MOT](https://github.com/gcassel/Modular-Organizing-Terminology) definitions, but precisely tailored to support the principles and practices of IO-based systems.  (Note that IO-based systems may also use some of the MOT definitions, when those are sufficiently precise for the contexts they're used in.)
 
