@@ -1,3 +1,7 @@
 #### Definition
 
-*Our channels* means *all communications channels* which are *part of [our systems](https://github.com/gcassel/IO/blob/main/terms/our-systems.md)*.
+*Our channels* means *all communications channels, spaces, locations, meetings, events and activities which are directly governed by us or by our representatives*.
+
+#### Notes
+
+Our channels may include entire systems and platforms which we directly govern.  However, our channels may also include systems which connect differently-governed channels.  Therefore, *our channels* functions as the root governance primitive.
