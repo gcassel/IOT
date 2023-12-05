@@ -1,6 +1,6 @@
 #### Definition
 
-*Our channels* means *all communications channels, spaces, locations, meetings, events and activities which are directly governed by us or by our representatives*.
+*Our channels* means *all communications channels, spaces, locations, meetings, events and activities which are directly governed by our project or by our representatives*.
 
 #### Notes
 
