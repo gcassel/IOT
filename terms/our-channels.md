@@ -1,6 +1,6 @@
 #### Definition
 
-*Our channels* means *all communications channels, spaces, locations, meetings, events, activities, and media items which are governed by our project*.
+*Our channels* means *all communications channels, spaces, locations, meetings, events, activities, and media items which are governed by our [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md).*
 
 #### Notes
 
