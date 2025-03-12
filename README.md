@@ -1,6 +1,6 @@
 # IOT / Inclusive Organizing Terminology
 
-##***NOTE: as of October 2024, IOT will be gradually phased out by developing linked data for definitions in MOT (branches and/or forks) in the Inclusive Organizing directory.***
+##***NOTE IOT will be gradually phased out by developing linked data for definitions in branches and/or forks of IOT/terms in the Inclusive Organizing Terminology repository**
 
 This repository is for developing practical technical definitions which are used in [Inclusive Organizing](https://inclusiveorg.net) (IO) and compatible systems.  
 
