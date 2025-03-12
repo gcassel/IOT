@@ -1,6 +1,6 @@
 # IOT / Inclusive Organizing Terminology
 
-##***NOTE IOT will be gradually phased out by developing linked data for definitions in branches and/or forks of IOT/terms in the Inclusive Organizing Terminology repository**
+##**NOTE IOT will be gradually phased out by developing linked data for definitions in branches and/or forks of IOT/terms in the Inclusive Organizing Terminology repository**
 
 This repository is for developing practical technical definitions which are used in [Inclusive Organizing](https://inclusiveorg.net) (IO) and compatible systems.  
 
