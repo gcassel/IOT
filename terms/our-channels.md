@@ -4,4 +4,4 @@
 
 #### Notes
 
-Our channels may include entire systems and platforms which we directly govern.  However, our channels may also include systems which include some differently-governed channels.  Therefore, *our channels* functions as the root governance primitive.
+Our channels may include entire systems and platforms which we directly govern.  However, our channels may also include systems which include some differently-governed channels.
